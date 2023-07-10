@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: custom_yields.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: October 2021
+client: Hedge Fund
+category: Investment Screening | ETL
+description: Created a custom yield screener for high-yield bonds by recalculating target yields based on custom exit dates. This was used by an investment group for idea generation by understanding the most likely actual yield to refinancing/call vs. YTM or YTW shown in the static index. This was an R program that was fed by an investment vendor's API, and stored in a cloud database for display to analysts. 
 ---
