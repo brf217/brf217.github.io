@@ -4,7 +4,7 @@ email: brett.feeley217@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Brett's data science portfolio page"
 keywords: "your keywords, separated by commas"
-skills: "Data Scientist - BI Developer - Custom ETL Pipelines"
+skills: "Data Science - Data Engineering - BI Development"
 meta_author: Feeley Brett
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Copyright
+  copyright: 
   location: Location
   social: Around the Web
   credits: Credits
