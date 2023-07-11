@@ -480,5 +480,10 @@ footer .footer-below {
 /* https://github.com/twbs/bootstrap/issues/16297 */
 .modal.fade.in {
     transform: translateZ(0);
+    
     -webkit-transform: translateZ(0);
+}
+
+.col-1 {
+    min-width: 88px;
 }
