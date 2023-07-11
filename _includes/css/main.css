@@ -484,6 +484,7 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-.col-1 {
-    min-width: 88px;
+.skill_img {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
