@@ -82,6 +82,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
+    background-image: url('/img/header-background.jpg');
     color: #282928;
 }
 
