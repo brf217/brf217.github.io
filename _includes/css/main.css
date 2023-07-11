@@ -82,8 +82,12 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    background-image: url('/img/header-background.jpg');
     color: #282928;
+    background-image: url('/img/header-background.jpg');
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 header .container {
