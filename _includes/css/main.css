@@ -107,13 +107,13 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
-    color: #33bd33;
+    color: #282928;
 }
 
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
-    color: #33bd33;
+    color: #282928;
 }
 
 @media(min-width:768px) {
