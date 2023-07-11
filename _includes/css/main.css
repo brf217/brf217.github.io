@@ -189,13 +189,13 @@ section h2 {
 
 section.success {
     color: #282928;
-    background: #{{ site.color.primary }};
+    background: #e3e3e3;
 }
 
 section.skill {
     padding: 70px 0;
     color: #282928;
-    background: #{{ site.color.primary }};
+    background: #e3e3e3;
 }
 
 @media(max-width:767px) {
