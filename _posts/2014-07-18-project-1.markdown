@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-title: Test delete this row if doesnt work
+title: Wildfire Tracking
 date: 2023-07-10
 img: wildfire_dash.png
 alt: image-alt
 project-date: 2023
-client: Investment Fund
+// client: Investment Fund
 category: Data Pipelines | Dashboard Development
 description: This project is a daily REST API download from the National Interagency Fire Center, which tracks new fire activity to compare to prior years. Incidents are cataloged individually and stored in Snowflake for further analysis and tracking. This project was completed to help estimate the revenue trajectory YoY for fire retardant companies, as well as tanker jet companies.
 ---
