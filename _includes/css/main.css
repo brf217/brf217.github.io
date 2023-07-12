@@ -21,6 +21,13 @@ p.hobbies {
     width: 70%;
 }
 
+p.about {
+    font-size: 20px;
+    line-height: 30px;   /* within paragraph */
+    margin-bottom: 30px; /* between paragraphs */
+    width: 80%;
+}
+
 p.small {
     font-size: 16px;
 }
