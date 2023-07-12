@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: Test delete this row if doesnt work
 date: 2023-07-10
 img: wildfire_dash.png
 alt: image-alt
