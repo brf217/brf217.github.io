@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 1
 title: Wildfire Tracking
 date: 2023-07-10
 img: wildfire_dash.png
