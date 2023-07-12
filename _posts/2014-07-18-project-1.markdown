@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 1
 title: High Yield Market Screener
 date: 2014-07-16
 img: custom_yields.png
