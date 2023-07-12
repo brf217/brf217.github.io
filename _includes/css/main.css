@@ -521,5 +521,5 @@ footer .footer-below {
 .hobby_img {
     margin-top: 20px;
     margin-bottom: 20px;
-    filter: drop-shadow(5px 5px 5px #474947);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
