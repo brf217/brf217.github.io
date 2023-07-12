@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 6
-title: Open Title
+title: Project Financing Model
 date: 2014-07-15
-img: submarine.png
+img: financial_model.png
 alt: image-alt
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Financial Modeling
+description: Financial model used to support the opening of a new infrastrucutre asset in Virginia. Model followed the F1F9 standard and had multiple scenarios for revenue, cost inflation, financing, etc. This project broke ground in 2023.
 ---
