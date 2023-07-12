@@ -1,10 +1,11 @@
 ---
 layout: default
 modal-id: 4
-title: Open Title
+title: Automated Commodities Alerts
 date: 2014-07-15
 img: game.png
 alt: image-alt
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Automated Alerts | Anomaly Detection
+description: Automated screener for finding commodities that drop by pre-set price intervals over the period of interest. 
+This was done in Python / Snowflake, and sends automated emails whenever target levels are breached. 
 ---
