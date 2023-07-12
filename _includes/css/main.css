@@ -207,6 +207,12 @@ section.skill {
     background: #e3e3e3;
 }
 
+section.hobbies {
+    padding: 0px 0;
+    color: #282928;
+    background: #e3e3e3;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
