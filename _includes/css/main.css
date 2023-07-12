@@ -194,7 +194,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 50px 0;
+    padding: 100px 0;
 }
 
 section h2 {
@@ -208,13 +208,13 @@ section.success {
 }
 
 section.skill {
-    padding: 0px 0;
+    padding: 100px 0;
     color: #282928;
     background: #e3e3e3;
 }
 
 section.hobbies {
-    padding: 65px 0;
+    padding: 100px 0;
     color: #282928;
     background: #e3e3e3;
 }
