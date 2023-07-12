@@ -204,19 +204,19 @@ section h2 {
 
 section.success {
     color: #282928;
-    background: #e3e3e3;
+    background: #d5d5d5;
 }
 
 section.skill {
     padding: 100px 0;
     color: #282928;
-    background: #e3e3e3;
+    background: #d5d5d5;
 }
 
 section.hobbies {
     padding: 100px 0;
     color: #282928;
-    background: #e3e3e3;
+    background: #d5d5d5;
 }
 
 @media(max-width:767px) {
