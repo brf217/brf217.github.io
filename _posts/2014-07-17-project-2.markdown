@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
+title: Energy Modeling
 date: 2014-07-17
 img: ng_model_plot.png
 alt: image-alt
-project-date: April 2020
-client: Confidential
 category: Statistical Modeling | Time-Series Forecasting
 description: Developed a natural gas supply and demand time-series econometric model using demand actuals from EIA and NOAA, as well as custom supply forecasts from well-level production data. Production data (type-curves) from about 2.5mm indivdual wells aggregated and forecasted through custom Python code, and rolled up to the shale play level to select the most profitable producers in those areas. 
 ---
