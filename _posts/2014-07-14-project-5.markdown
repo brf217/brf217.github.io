@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 5
-title: Open Title
+title: Hospital Competitive Analysis
 date: 2014-07-14
-img: safe.png
+img: hospital_trade_areas.png
 alt: image-alt
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: GIS | Spatial Analysis
+description: This was an analysis of competitive hospital facilities within 15 miles of the subject's locations. KPIs for competitive hospitals were compared to understand whether the client's hospitals were performing at or above the level or similar facilities in their trade areas.
 ---
