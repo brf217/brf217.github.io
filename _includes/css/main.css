@@ -16,10 +16,9 @@ p {
 
 p.hobbies {
     font-size: 20px;
-    line-height: 30px;   /* within paragraph */
-    margin: auto;
-    width: 50%;
-    padding: 10px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    width: 50%
 }
 
 p.small {
