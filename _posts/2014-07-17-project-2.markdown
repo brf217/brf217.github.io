@@ -6,5 +6,5 @@ date: 2014-07-17
 img: ng_model_plot.png
 alt: image-alt
 category: Statistical Modeling | Time-Series Forecasting
-description: Developed a natural gas supply and demand time-series econometric model using demand drivers from EIA and NOAA, as well as custom supply forecasts from well-level production data. Production data (type-curves) from about 2.5mm indivdual wells are aggregated and forecast through custom Python code. Production was rolled up to the shale play level to select the most profitable producers depending on area exposure. 
+description: Developed a natural gas supply and demand time-series econometric model using demand drivers from EIA and NOAA, as well as custom supply forecasts from well-level production data. Production data (type-curves) from about 2.5mm indivdual wells are aggregated and forecast through custom Python code.
 ---
