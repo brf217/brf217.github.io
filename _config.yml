@@ -56,6 +56,7 @@ markdown: kramdown
 permalink: pretty
 
 #for posts
+future: true
 defaults:
   - scope:
       path: ""
