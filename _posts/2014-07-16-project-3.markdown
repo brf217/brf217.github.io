@@ -5,6 +5,6 @@ title: Automated Commodities Alerts
 date: 2014-07-15
 img: commodities_alert.png
 alt: image-alt
-category: Automated Alerts | Anomaly Detection
+category: Automated Alerts | Anomaly Detection | Python | Snowflake
 description: Automated screener for finding commodities that move by preset price intervals over the period of interest. This was done in Python / Snowflake, and sends automated emails whenever target levels are breached. 
 ---
