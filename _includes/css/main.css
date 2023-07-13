@@ -53,6 +53,7 @@ a.hobby:focus,
 a.hobby:active,
 a.hobby.visited {
     text-decoration: underline;
+    color: #282928;
 }
 
 h1,
