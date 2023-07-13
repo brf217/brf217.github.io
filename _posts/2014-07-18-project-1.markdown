@@ -5,6 +5,6 @@ title: High Yield Market Screener
 date: 2014-07-16
 img: custom_yields.png
 alt: image-alt
-category: Investment Screening | ETL
+category: Investment Screening | ETL | R | Snowflake
 description: Created a custom yield screener for high-yield bonds by recalculating target yields based on custom exit dates. This was used by an investment group for idea generation by understanding the total return to refinancing vs. YTM or YTW shown in the static index. This gives an advantage in the market when screening for new ideas.
 ---
