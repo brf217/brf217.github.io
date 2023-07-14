@@ -49,6 +49,7 @@ ul.skills li.skills:before {
 li.skills {
     font-size: 20px;
     list-style-type: none;
+    margin-top: 5px;
 }
 
 a,
