@@ -570,7 +570,6 @@ ul li:before {
     font-family: 'FontAwesome';
     content: '\f054';
     margin:0 5px 0 -15px;
+    list-style-type: none; 
 }
 
-ul.list-inline {
-}
