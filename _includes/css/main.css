@@ -39,6 +39,13 @@ p.small {
     font-size: 14px;
 }
 
+ul.skills li.skills:before {    
+    font-family: 'FontAwesome';
+    content: '\f054';
+    margin:0 5px 0 -15px;
+    list-style-type: none; 
+}
+
 li.skills {
     font-size: 20px;
 }
@@ -566,10 +573,4 @@ footer .footer-below {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 
-ul.skills li.skills:before {    
-    font-family: 'FontAwesome';
-    content: '\f054';
-    margin:0 5px 0 -15px;
-    list-style-type: none; 
-}
 
