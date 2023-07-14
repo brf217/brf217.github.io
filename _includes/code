@@ -1,0 +1,17 @@
+<!-- Code Section -->
+<section class="code" id="code">
+  
+<div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Code Samples</h2>
+        <hr class="star-light">
+      </div>
+    </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12">
+            <a class = "hobby" href ="http://brf217.github.io/">PDF Scraper</a>
+        </div>
+      </div>  
+  </div>
+</section>
