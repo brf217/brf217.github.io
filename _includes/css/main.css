@@ -231,7 +231,11 @@ section.success {
 section.skills {
     padding: 100px 0;
     color: #282928;
-    background: #d5d5d5;
+    background-image: url('/img/header-background.jpg');
+    height: 300px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 section.tools {
